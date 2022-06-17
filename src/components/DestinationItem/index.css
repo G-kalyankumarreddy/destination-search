@@ -1,0 +1,14 @@
+.item-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.destination-image {
+  width: 30%;
+}
+
+.item-name {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 14px;
+}
